@@ -1,0 +1,138 @@
+{
+    "data": [
+        {
+            "type": "user",
+            "id": "1",
+            "attributes": {
+                "title": "Aman",
+                "body": "The shortest article. Ever.",
+                "created": "2015-05-22T14:56:29.000Z",
+                "updated": "2015-05-22T14:56:28.000Z"
+            },
+            "relationships": {
+                "author": {
+                    "data": {
+                        "id": "42",
+                        "type": "people"
+                    }
+                }
+            },
+            "time" : "2021-11-24T17:05:00.000Z" 
+        },
+        {
+            "type": "user",
+            "id": "1",
+            "attributes": {
+                "title": "Dinesh",
+                "body": "The shortest article. Ever.",
+                "created": "2015-05-22T14:56:29.000Z",
+                "updated": "2015-05-22T14:56:28.000Z"
+            },
+            "relationships": {
+                "author": {
+                    "data": {
+                        "id": "42",
+                        "type": "people"
+                    }
+                }
+            },
+            "time" : "2021-11-24T17:05:00.000Z" 
+        },
+        {
+            "type": "user",
+            "id": "1",
+            "attributes": {
+                "title": "Vaibhav",
+                "body": "The shortest article. Ever.",
+                "created": "2015-05-22T14:56:29.000Z",
+                "updated": "2015-05-22T14:56:28.000Z"
+            },
+            "relationships": {
+                "author": {
+                    "data": {
+                        "id": "42",
+                        "type": "people"
+                    }
+                }
+            },
+            "time" : "2021-11-24T17:05:00.000Z" 
+        },
+        {
+            "type": "user",
+            "id": "1",
+            "attributes": {
+                "title": "Aayush",
+                "body": "The shortest article. Ever.",
+                "created": "2015-05-22T14:56:29.000Z",
+                "updated": "2015-05-22T14:56:28.000Z"
+            },
+            "relationships": {
+                "author": {
+                    "data": {
+                        "id": "42",
+                        "type": "people"
+                    }
+                }
+            },
+            "time" : "2021-11-24T17:05:00.000Z" 
+        },
+        {
+            "type": "user",
+            "id": "1",
+            "attributes": {
+                "title": "Ujjwal",
+                "body": "The shortest article. Ever.",
+                "created": "2015-05-22T14:56:29.000Z",
+                "updated": "2015-05-22T14:56:28.000Z"
+            },
+            "relationships": {
+                "author": {
+                    "data": {
+                        "id": "42",
+                        "type": "people"
+                    }
+                }
+            },
+            "time" : "2021-11-24T11:05:00.000Z" 
+        },
+        {
+            "type": "user",
+            "id": "1",
+            "attributes": {
+                "title": "Mayank",
+                "body": "The shortest article. Ever.",
+                "created": "2015-05-22T14:56:29.000Z",
+                "updated": "2015-05-22T14:56:28.000Z"
+            },
+            "relationships": {
+                "author": {
+                    "data": {
+                        "id": "42",
+                        "type": "people"
+                    }
+                }
+            },
+            "time" : "2021-11-24T15:05:00.000Z" 
+        },
+        {
+            "type": "user",
+            "id": "1",
+            "attributes": {
+                "title": "Amit",
+                "body": "The shortest article. Ever.",
+                "created": "2015-05-22T14:56:29.000Z",
+                "updated": "2015-05-22T14:56:28.000Z"
+            },
+            "relationships": {
+                "author": {
+                    "data": {
+                        "id": "42",
+                        "type": "people"
+                    }
+                }
+            },
+            "time" : "2021-10-23T17:05:00.000Z" 
+        }
+
+    ]
+}
